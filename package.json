@@ -1,7 +1,7 @@
 {
   "name": "@emersonleite/teste-package",
   "version": "1.0.1",
-  "description": "EBLE npm package",
+  "description": "npm package boilerplate",
   "source": "src/index.ts",
   "main": "dist/main.js",
   "module": "dist/module.js",
