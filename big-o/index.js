@@ -40,4 +40,5 @@ function getTime(entryfunction, data) {
 }
 console.log(getTime(quadratic, data));
 console.log(getTime(cubic, data));
+console.log(getTime(cubic, data));
 //# sourceMappingURL=index.js.map

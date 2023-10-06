@@ -51,6 +51,7 @@ return duration
 
  console.log(getTime(quadratic, data))
  console.log(getTime(cubic, data))
+ console.log(getTime(cubic, data))
 
 
 
